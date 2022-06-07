@@ -6,6 +6,10 @@ A "mailto:" link (defined in [RFC6068](https://datatracker.ietf.org/doc/html/rfc
 
 Using this scheme, you can share a mailto: link where it is normally only be possible to share a URL, such as a QR code. 
 
+## Example
+
+[Click Here](http://chapmanb.com/GitHub-pages-mailto/) to open the example website, which should open an email to "someone@example.com", with the subject "Example Subject Line", and the body "Example Body Contents".
+
 ## How To
 
 1. Click "Use this template" above to create a new repo.
