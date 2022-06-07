@@ -15,6 +15,8 @@ Using this scheme, you can share a mailto: link where it is normally only be pos
 1. Click "Use this template" above to create a new repo.
 2. Update [index.html](index.html) to customize your mailto: link, replacing the default contents.
 3. Navigate to Settings > Pages and enable GitHub Pages on your repo, by selecting the main branch as a source.
+4. Copy the link generated (based off your username and repo title); this is the link to your new site.
+5. Wait 1 - 2 minutes while your site is brought online (a similar wait is required after commiting changes), and try it out! 
 
 ## mailto: Specifications
 
